@@ -1,0 +1,6 @@
+URL: http://www.baidu.com
+log:
+  file_name: test.log
+  console_level: INFO
+  file_level: DEBUG
+  pattern: '%(asctime)s %(name)s  %(levelname)s  %(message)s'
